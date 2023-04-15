@@ -1,0 +1,2 @@
+# Calcultor
+ A simple calculator in Kotlin can be implemented using basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator should take input from the user, perform the desired operation, and then display the result.A simple calculator in Kotlin can be implemented using basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator should take input from the user, perform the desired operation, and then display the result.
